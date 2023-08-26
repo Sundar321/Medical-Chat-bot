@@ -1,0 +1,91 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.chatbot-heading {
+  color: #323f4b;
+  font-family: cursive;
+  margin-top: 15px;
+  font-size: 30px;
+}
+.medpic{
+  
+    position: fixed;
+    margin-top: 30px;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: -1;
+  }
+  
+.manpic{
+  
+    position: fixed;
+    bottom: 0;
+    right: 0;
+  }
+  
+
+.image {
+  width: 150px;
+}
+
+.chat-container {
+  padding: 10px;
+}
+
+.msg-to-chatbot-container {
+  text-align: right;
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
+
+.msg-to-chatbot {
+  margin-right: 40px;
+  background-color: #cbd2d9;
+  font-family: "Roboto";
+  font-weight: 900;
+  border-radius: 16px;
+  padding: 15px;
+  display: inline-block;
+  max-width: 80%;
+}
+
+.msg-from-chatbot-container {
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
+
+.msg-from-chatbot {
+  margin-left: 40px;
+  color: white;
+  background-color: #e57742;
+  font-family: "Roboto";
+  font-weight: 900;
+  border-radius: 16px;
+  padding: 15px;
+  display: inline-block;
+  max-width: 80%;
+}
+
+
+.user-input {
+  background-color: #cbd2d9;
+  font-family: "Roboto";
+  font-weight: 900;
+  height: 52px;
+  width:700px ;
+  border-width: 0;
+  border-radius: 5px;
+  margin: 8px;
+  padding: 15px;
+}
+
+.send-msg-btn {
+  background-color: #cbd2d9;
+  font-family: "Roboto";
+  height: 52px;
+  border-width: 0;
+  border-radius: 10px;
+  margin: 8px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
