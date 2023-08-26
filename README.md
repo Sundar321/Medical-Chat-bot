@@ -39,17 +39,10 @@ chat_bot.py
 
 Contributions to the project are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-Special thanks to the developers and contributors who have worked on this project and made it possible.
 
 ## Contact
 
-For any questions or inquiries, please contact us at [email@example.com](mailto:email@example.com).
+For any questions or inquiries, please contact us at [email@example.com](mailto:kunchalabhanu200@example.com).
 
 We hope you find this project helpful and valuable for diagnosing medical conditions. Thank you for using our Medical Chatbot!
 
