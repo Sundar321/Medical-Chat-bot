@@ -7,28 +7,16 @@ Welcome to the Medical Chatbot project! This project aims to provide users with 
 
 To get started with the project, follow the steps below:
 
-1. Clone the repository.  
+1. Clone the repository to your local machine:
 ```bash
-git clone https://github.com/Sundar321/Restaurant-Website.git
+git clone https://github.com/Sundar321/medical-chatbot.git
 ```
 
 2. Navigate to the directory.
 ```bash
-cd Restaurant-Website
+pip install -r requirements.tx
 
 ```
-
-1. Clone the repository to your local machine:
-   
-   ```bash
-   git clone https://github.com/Sundar321/medical-chatbot.git    ```    
-
-
-3. Install the required libraries and dependencies:
-
-```bash
-pip install -r requirements.txt```  
-
 
 3. Run the chat_bot.py:
 
