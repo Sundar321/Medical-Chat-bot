@@ -8,12 +8,21 @@ Welcome to the Medical Chatbot project! This project aims to provide users with 
 To get started with the project, follow the steps below:
 
 1. Clone the repository to your local machine:
-git clone https://github.com/your-username/medical-chatbot.git
+   ```bash
+git clone https://github.com/Sundar321/medical-chatbot.git
+```
+
 
 2. Install the required libraries and dependencies:
+```bash
 pip install -r requirements.txt
+```
 
-3. Run the chat_bot.py:
+
+4. Run the chat_bot.py:
+ ```bash
+chat_bot.py
+```
 
 ## Features
 
