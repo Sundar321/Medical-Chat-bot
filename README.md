@@ -42,7 +42,7 @@ Contributions to the project are welcome! If you have any ideas for improvements
 
 ## Contact
 
-For any questions or inquiries, please contact us at [kunchalabhanu200@gmail.com](mailto:kunchalabhanu200@gmail.com).
+For any questions or inquiries, please contact us at [kunchalabhanu200@gmail.com].
 
 We hope you find this project helpful and valuable for diagnosing medical conditions. Thank you for using our Medical Chatbot!
 
