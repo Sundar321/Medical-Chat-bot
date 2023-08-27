@@ -24,6 +24,21 @@ pip install -r requirements.tx
 chat_bot.py
 ```
 
+## Screenshots
+1. **Web Based Interface**  
+
+![image](https://github.com/Sundar321/Medical-bot/blob/master/Images/Screenshot%202023-04-14%20130609.png)
+
+2. **Terminal Based Output**  
+
+
+![image](https://github.com/Sundar321/Medical-bot/blob/master/Images/Screenshot%202023-04-03%20195909.png)
+
+3. **Decision Tree Algo**  
+
+
+![image](https://github.com/Sundar321/Medical-bot/blob/master/Images/Screenshot_20221114_195102.png)
+
 ## Features
 
 - Diagnose medical conditions based on reported symptoms.
