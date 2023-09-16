@@ -3,7 +3,7 @@
 
 Welcome to the Medical Chatbot project! This project aims to provide users with an automated chatbot that can assist in diagnosing medical conditions based on reported symptoms. The chatbot uses machine learning algorithms to predict possible medical conditions and provide additional information such as severity and precautions.
 
-## Getting Started
+## Getting Started  
 
 To get started with the project, follow the steps below:
 
